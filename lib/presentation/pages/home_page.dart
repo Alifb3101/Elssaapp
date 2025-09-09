@@ -27,6 +27,7 @@ class HomePage extends StatelessWidget {
             children: [
               const LocationHeader(),
               const BannerSection(),
+              SizedBox(height: 15,),
               CategoryGrid(categories: repo.getCategories()),
               const SectionTitle(title: 'Popular Services'),
               ServiceHorizontalList(services: repo.getPopularServices(), tileSize: 83),

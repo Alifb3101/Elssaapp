@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "836963118618",
+    "project_id": "elssa-e4ed1",
+    "storage_bucket": "elssa-e4ed1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836963118618:android:7b95d358ba73f4b311aba3",
+        "android_client_info": {
+          "package_name": "com.example.elssa_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836963118618-g9hfhf6qn9r26upltvroquhspcuqfu83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPdapTnnzGACzjuRGpIknFjqBYrYcB9pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836963118618-g9hfhf6qn9r26upltvroquhspcuqfu83.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836963118618-hl3q12caebfrr9g6hm0tbskqeqa85f2n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.elssaAssignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

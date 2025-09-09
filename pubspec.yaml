@@ -35,6 +35,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
   flutter_svg :
+  firebase_core: ^3.4.0
+  firebase_auth: ^5.2.0
+  google_sign_in: ^6.2.1
+  flutter_facebook_auth: ^6.0.4
+
+
 
 dev_dependencies:
   flutter_test:
@@ -62,6 +68,7 @@ flutter:
   assets:
     - assets/svg/
     - assets/svg/Declutter.svg
+    - assets/svg/Frame.png
     - assets/svg/Gardening.svg
     - assets/svg/Group 1.svg
     - assets/svg/Group 2.svg
@@ -79,17 +86,27 @@ flutter:
     - assets/svg/Rectangle 43.png
     - assets/svg/Renovation.svg
     - assets/svg/banner_placeholder.png
+    - assets/svg/bedge1.png
+    - assets/svg/bedge2.png
+    - assets/svg/bedge3.png
+    - assets/svg/bedge4.png
+    - assets/svg/bedge5.png
     - assets/svg/booking 1.png
     - assets/svg/chevron_down.png
     - assets/svg/contactless.png
+    - assets/svg/flag.png
     - assets/svg/gift.png
+    - assets/svg/google.png
     - assets/svg/hassle.svg
     - assets/svg/home.png
     - assets/svg/location.png
+    - assets/svg/logo.png
     - assets/svg/mask.png
+    - assets/svg/meta.png
     - assets/svg/pricing.svg
     - assets/svg/quality.svg
     - assets/svg/search.png
+    - assets/svg/slider.png
     - assets/svg/surface.svg
     - assets/svg/user.png
   #   - images/a_dot_ham.jpeg

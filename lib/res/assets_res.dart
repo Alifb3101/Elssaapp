@@ -9,6 +9,7 @@ class AssetsRes {
   static const String PROJECT_NAME = 'elssa_assignment';
   static const String PROJECT_VERSION = '1.0.0+1';
   static const String DECLUTTER = 'assets/svg/Declutter.svg';
+  static const String FRAME = 'assets/svg/Frame.png';
   static const String GARDENING = 'assets/svg/Gardening.svg';
   static const String GROUP_1 = 'assets/svg/Group 1.svg';
   static const String GROUP_2 = 'assets/svg/Group 2.svg';
@@ -26,17 +27,27 @@ class AssetsRes {
   static const String RECTANGLE_43 = 'assets/svg/Rectangle 43.png';
   static const String RENOVATION = 'assets/svg/Renovation.svg';
   static const String BANNER_PLACEHOLDER = 'assets/svg/banner_placeholder.png';
+  static const String BEDGE1 = 'assets/svg/bedge1.png';
+  static const String BEDGE2 = 'assets/svg/bedge2.png';
+  static const String BEDGE3 = 'assets/svg/bedge3.png';
+  static const String BEDGE4 = 'assets/svg/bedge4.png';
+  static const String BEDGE5 = 'assets/svg/bedge5.png';
   static const String BOOKING_1 = 'assets/svg/booking 1.png';
   static const String CHEVRON_DOWN = 'assets/svg/chevron_down.png';
   static const String CONTACTLESS = 'assets/svg/contactless.png';
+  static const String FLAG = 'assets/svg/flag.png';
   static const String GIFT = 'assets/svg/gift.png';
+  static const String GOOGLE = 'assets/svg/google.png';
   static const String HASSLE = 'assets/svg/hassle.svg';
   static const String HOME = 'assets/svg/home.png';
   static const String LOCATION = 'assets/svg/location.png';
+  static const String LOGO = 'assets/svg/logo.png';
   static const String MASK = 'assets/svg/mask.png';
+  static const String META = 'assets/svg/meta.png';
   static const String PRICING = 'assets/svg/pricing.svg';
   static const String QUALITY = 'assets/svg/quality.svg';
   static const String SEARCH = 'assets/svg/search.png';
+  static const String SLIDER = 'assets/svg/slider.png';
   static const String SURFACE = 'assets/svg/surface.svg';
   static const String USER = 'assets/svg/user.png';
 }

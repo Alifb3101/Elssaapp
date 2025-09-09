@@ -25,7 +25,7 @@ class BadgeRow extends StatelessWidget {
                 CircleAvatar(
                   radius: 22,
                   backgroundColor: const Color(0xFFF2F4F7),
-                  child: SvgPicture.asset(b.icon,fit: BoxFit.fill,),
+                  child: Image.asset(b.icon,fit: BoxFit.fill,),
                 ),
                 const SizedBox(height: 6),
                 SizedBox(

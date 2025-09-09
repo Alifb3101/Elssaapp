@@ -76,27 +76,27 @@ class HomeRepository {
   /// small round badges row (optional section from screenshot)
   List<InfoItemModel> getBadges() => const [
     InfoItemModel(
-      icon: 'assets/svg/Group 1.svg',
+      icon: 'assets/svg/bedge1.png',
       title: 'On Demand / Scheduled',
       subtitle: '',
     ),
     InfoItemModel(
-      icon: 'assets/svg/Group 2.svg',
+      icon: 'assets/svg/bedge2.png',
       title: 'Verified Partners',
       subtitle: '',
     ),
     InfoItemModel(
-      icon: 'assets/svg/Group 3.svg',
+      icon: 'assets/svg/bedge3.png',
       title: 'Satisfaction Guarantee',
       subtitle: '',
     ),
     InfoItemModel(
-      icon: 'assets/svg/Group 4.svg',
+      icon: 'assets/svg/bedge4.png',
       title: 'Upfront Pricing',
       subtitle: '',
     ),
     InfoItemModel(
-      icon: 'assets/svg/Group 5.svg',
+      icon: 'assets/svg/bedge5.png',
       title: 'Highly Trained',
       subtitle: '',
     ),
