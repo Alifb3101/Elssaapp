@@ -35,13 +35,13 @@ class AssetsRes {
   static const String BOOKING_1 = 'assets/svg/booking 1.png';
   static const String CHEVRON_DOWN = 'assets/svg/chevron_down.png';
   static const String CONTACTLESS = 'assets/svg/contactless.png';
+  static const String ELSAALOGO = 'assets/svg/elsaalogo.png';
   static const String FLAG = 'assets/svg/flag.png';
   static const String GIFT = 'assets/svg/gift.png';
   static const String GOOGLE = 'assets/svg/google.png';
   static const String HASSLE = 'assets/svg/hassle.svg';
   static const String HOME = 'assets/svg/home.png';
   static const String LOCATION = 'assets/svg/location.png';
-  static const String LOGO = 'assets/svg/logo.png';
   static const String MASK = 'assets/svg/mask.png';
   static const String META = 'assets/svg/meta.png';
   static const String PRICING = 'assets/svg/pricing.svg';

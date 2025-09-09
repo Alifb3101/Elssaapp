@@ -24,7 +24,7 @@ class _SplashPageState extends State<SplashPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Image.asset('/assets/svg/logo.png' , )
+        child: Image.asset('assets/svg/elsaalogo.png')
     ));
   }
 }
